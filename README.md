@@ -1,4 +1,4 @@
-# FCRIT-Canteen
+# Canteen-Website
 
 Summer Project.
 
