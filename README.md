@@ -1,6 +1,6 @@
 # Canteen-Website
 
-Summer Project.
+<!-- Summer Project. -->
 
 ## Demonstration
 
