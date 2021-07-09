@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dashboard</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <script type="text/javascript" href="index.js"></script>
+</head>
+<body>
+
+	<div class="admin-panel clearfix">
+  		<div class="slidebar">
+
+  			<div class="logo">
+			      <img src="logo.jpeg" width="150" height="145">
+			 </div>
+
+  		<div>
+    		<ul>
+		      <li><a href="#dashboard" id="targeted">dashboard</a></li>
+		      <li><a href="#posts">View All Items</a></li>
+		      <li><a href="#users">User Details</a></li>
+		      <li><a href="#comments">Order History</a></li>
+		      <li><a href="#tools">Payment History</a></li>
+		      <li><a href="#settings">Settings</a></li>
+          <li><a href="#recharge">Recharge</a></li>
+		    </ul>
+  		</div>
+
+  	</div>
+  	<div class="main">
+    <div class="mainContent clearfix">
+     	 <div id="dashboard">
+        	<h2 class="header">Now Serving...</h2>
+        </div>
+     <div id="posts">
+        	<h2 class="header">Available Items...</h2>
+        	 <div class="quick-press">
+           <h4>Add a new item</h4>
+           <form action="" method="post">
+             <input type="text" name="title" placeholder="Item name"/>
+             <input type="text" name="content" placeholder="Price"/>
+             <button type="submit" class="submit" name="submit">Add Item</button>
+           </form>
+         </div>
+        </div>
+     <div id="users">
+        	<h2 class="header">Login Details</h2>
+        </div>
+    <div id="comments">
+        	<h2 class="header">All Orders</h2>
+        </div>
+    <div id="tools">
+        	<h2 class="header">Payments</h2>
+        </div>
+       <div id="settings">
+        	<h2 class="header"></h2>
+        </div>
+    	
+         <div id="recharge">
+         <h2 class="header">User Information</h2>
+           <div class="quick-press">
+          
+           <form action="" method="post">
+             <input type="text" name="title" placeholder="name"/>
+             <input type="text" name="content" placeholder="rollno"/>
+             <input type="text" name="content" placeholder="amount"/>
+             <button type="submit" class="submit" name="submit">Recharge</button>
+           </form>
+         </div>
+       </div>
+
+</div>
+
+</body>
+</html>
