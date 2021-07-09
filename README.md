@@ -9,7 +9,7 @@ Summer Project....
 
 <br />
 
-### 2) Admin
+### 2) Admin Panel
 <img src="./Images/Admin demo.gif" alt="Admin demo"/>
 
 <br />
