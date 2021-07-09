@@ -1,10 +1,10 @@
 # FCRIT-Canteen
 
-Summer Project....
+Summer Project.
 
 ## Demonstration
 
-### 1) Customer
+### 1) Client Website
 <img src="./Images/Canteen demo.gif" alt="Canteen demo"/>
 
 <br />
