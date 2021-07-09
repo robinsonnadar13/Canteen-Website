@@ -2,6 +2,17 @@
 
 <!-- Summer Project. -->
 
+## Installation
+
+- Install MAMP or WAMP server
+
+- Clone this folder to C:\MAMP\htdocs
+
+- Start the server!
+
+- Go to browser: http://localhost/Canteen-Website/home.php
+
+
 ## Demonstration
 
 ### 1) Client Website
@@ -14,12 +25,3 @@
 
 <br />
 
-## Installation
-
-- Install MAMP or WAMP server
-
-- Clone this folder to C:\MAMP\htdocs
-
-- Start the server!
-
-- Go to browser: http://localhost/Canteen-Website/home.php
