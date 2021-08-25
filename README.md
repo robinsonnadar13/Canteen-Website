@@ -1,6 +1,7 @@
 # Canteen-Website
 
-<!-- Summer Project. -->
+This project aims to simplify the food ordering and payment process in college canteens by removing the overheads such as long queues of people waiting for their turn to order food and make payment.
+This system allows staffs to view, add, remove and modify items. It also displays the student's details and has a feature to update/recharge the student's personal wallet.
 
 ## Demonstration
 
